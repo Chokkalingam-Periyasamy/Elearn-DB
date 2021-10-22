@@ -36,6 +36,6 @@ select * from modules
 
 ALTER TABLE courses
 ADD image varchar(100);
+Add amount varchar(50);
 
- truncate 
-table modules
+
